@@ -6,7 +6,6 @@
 Automatically translates all sites from American and Imperial units to International System of units (SI/Metric), adding converted unit in brackets behind USC/imperial units.
 
 - Example: 10 feet (3 m)˜
-- You can test conversion in action at this [Linkedin article](https://www.linkedin.com/pulse/everything-metric-chrome-firefox-milos-paripovic/)
 
 ## Install Extension
 
